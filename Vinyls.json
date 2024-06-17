@@ -1,0 +1,195 @@
+{
+    "Vinyl-1": {
+        "name": "Cafe-de-Touhou-1",
+        "art": "cover-1",
+        "vinyl_art": "default-vinyl",
+        "vinyl_song_list": [
+            "3-Jam-from-memories-of-winter.mp3",
+            "4-Perfect-Day-Dream.mp3",
+            "7-無何有の郷-(KiRa-Remix).mp3",
+            "8-NaTuLaL-AGeNcY.mp3",
+            "11-Lotus.mp3",
+            "9-Below-Between-Beyond.mp3",
+            "6-風の都.mp3",
+            "5-暖色系アリス.mp3",
+            "2-faraway-country.mp3",
+            "1-もし、空が晴れるなら.mp3",
+            "10-Sky-Garden.mp3"
+        ]
+    },
+    "Vinyl-2": {
+        "name": "Cafe-de-Touhou-2",
+        "art": "cover-2",
+        "vinyl_art": "default-vinyl",
+        "vinyl_song_list": [
+            "7-Prime-Star.mp3",
+            "10-Old-under-the-sun.mp3",
+            "4-かんぱんバカンス.mp3",
+            "3-濡れた素肌に.mp3",
+            "6-Skyscraper-of-Horizon.mp3",
+            "11-Blue-Wings.mp3",
+            "5-Romance-for-you.mp3",
+            "1-Seaside.mp3",
+            "2-unknown.your-smile.mp3",
+            "9-SEAMOON.mp3",
+            "8-流星階段.mp3"
+        ]
+    },
+    "Vinyl-3": {
+        "name": "Cafe-de-Touhou-3",
+        "art": "cover-3",
+        "vinyl_art": "default-vinyl",
+        "vinyl_song_list": [
+            "5-星の交差点.mp3",
+            "4-キマグレな日曜日.mp3",
+            "2-Blue-magic-preset.mp3",
+            "9-夜のアリス.mp3",
+            "1-Vintage-Girl.mp3",
+            "10-Sorrow-of-the-night.mp3",
+            "11-Slow-night.mp3",
+            "12-Forevermore.mp3",
+            "7-Scarlet-Tea-Party.mp3",
+            "8-雨のち七色.mp3",
+            "6-ラクトガール～少女密室.mp3",
+            "3-theo.mp3"
+        ]
+    },
+    "Vinyl-4": {
+        "name": "Cafe-de-Touhou-4",
+        "art": "cover-4",
+        "vinyl_art": "default-vinyl",
+        "vinyl_song_list": [
+            "9-Deep-roasted-coffee.mp3",
+            "6-片頬ついて.mp3",
+            "8-Night-bard.mp3",
+            "1-地平線に日は沈まない.mp3",
+            "4-微笑みの歴史少女.mp3",
+            "7-Sthorer.mp3",
+            "5-風のたより.mp3",
+            "2-song-time-with-you.mp3",
+            "3-窓辺に雨.mp3",
+            "10-If-you-can-save-Me.mp3"
+        ]
+    },
+    "Vinyl-5": {
+        "name": "Cafe-de-Touhou-5",
+        "art": "cover-5",
+        "vinyl_art": "default-vinyl",
+        "vinyl_song_list": [
+            "5-black-coffee.mp3",
+            "1-Mercury.mp3",
+            "2-Departure.mp3",
+            "6-One-day-in-the-city.mp3",
+            "10-遠い空の先へ.mp3",
+            "8-Sunset-Flying.mp3",
+            "9-Long-Time.mp3",
+            "4-夜の人里を臨む.mp3",
+            "7-Tomorrow-is-Another-Day.mp3",
+            "3-Silent-Lullaby.mp3"
+        ]
+    },
+    "Vinyl-6": {
+        "name": "Cafe-de-Touhou-6",
+        "art": "cover-6",
+        "vinyl_art": "vinyl-6",
+        "vinyl_song_list": [
+            "4-Brilliant-Girls.mp3",
+            "8-Wanna-be-free.mp3",
+            "3-ラテアート.mp3",
+            "5-廃獄ララバイ.mp3",
+            "6-地獄でお茶を.mp3",
+            "1-VAGUELY-PASSION.mp3",
+            "2-heartfelt-fancy.mp3",
+            "7-Slope-of-Intention.mp3"
+        ]
+    },
+    "Vinyl-7": {
+        "name": "Cafe-de-Touhou-7",
+        "art": "cover-7",
+        "vinyl_art": "default-vinyl",
+        "vinyl_song_list": [
+            "4-Usual-Place.mp3",
+            "7-Smoky-Carrot.mp3",
+            "8-Mellow-Waves.mp3",
+            "1-Naive-Face.mp3",
+            "2-Fall-of-summer-memories-煌く水面-.mp3",
+            "3-autumn-wind.mp3",
+            "5-River-path.mp3",
+            "6-Mirage.mp3"
+        ]
+    },
+    "Vinyl-8": {
+        "name": "Cafe-de-Touhou-8",
+        "art": "cover-8",
+        "vinyl_art": "default-vinyl",
+        "vinyl_song_list": [
+            "8-カフェラテとマカロン.mp3",
+            "7-cafe-des-desirs.mp3",
+            "2-INSIGHT.mp3",
+            "5-warm-glow-night.mp3",
+            "3-Night-time-cherry-blossom.mp3",
+            "1-feeble-evil.mp3",
+            "6-妖怪寺へようこそ.mp3",
+            "4-翡翠の夢.mp3"
+        ]
+    },
+    "Vinyl-Relax-1": {
+        "name": "Touhou-Relax-Cafe-1",
+        "art": "relax-cover-1",
+        "vinyl_art": "relax-vinyl-1",
+        "vinyl_song_list": [
+            "08 - 浜田山ミュージックラボ - 一行だけの置手紙（幻想浄瑠璃）.mp3",
+            "07 - 白田将悟 - 覚悟はいいかい？（マジカルストーム）.mp3",
+            "06 - JeetSingh（Crest） - 明日あればこそ（孤独なウェアウルフ）.mp3",
+            "03 - corico - 恋のスナイパー（運河を行き交う人妖）.mp3",
+            "09 - purikoko - 誰かの願いが叶うころ（空中に沈む輝針城）.mp3",
+            "05 - 清水嶺 - 桜並木（満月の竹林）.mp3",
+            "02 - さば夫 - 心はプラス（秘境のマーメイド）.mp3",
+            "10 - CRAFT SOUND STUDIO - 言わなきゃわからない（リバースイデオロギー）.mp3",
+            "12 - SGY - 星物語（輝く針の小人族～Little_Princess）.mp3",
+            "14 - 鳥居一平 - 海沿いのふるさと（始原のビート　～ Pristine Beat）.mp3",
+            "11 - 白木滉平 - 流星のサドル（針小棒大の天守閣）.mp3",
+            "01 - F - 笑っていたい（ミストレイク）.mp3",
+            "13 - OdiakeS - 心に夢を君には愛を（魔力の雷雲）.mp3",
+            "04 - 備前 - 雨は気まぐれ（柳の下のデュラハン）.mp3"
+        ]
+    },
+    "Vinyl-Relax-2": {
+        "name": "Touhou-Relax-Cafe-2",
+        "art": "relax-cover-2",
+        "vinyl_art": "default-vinyl",
+        "vinyl_song_list": [
+            "06 - ありがとう、またね（あなたの町の怪事件）,備前.mp3",
+            "07 - 銀河旅行（妖怪モダンコロニー）,浜田山ミュージックラボ.mp3",
+            "10 - 夕焼けのフォトグラフ（妖怪の山 ～ Mysterious Mountain）,鳥居一平.mp3",
+            "02 - オフィス街の恋（天狗が見ている ～ Black Eyes）,さば夫.mp3",
+            "05 - 風を抱き締めて（風神少女）,SGY.mp3",
+            "08 - 無くしものを数えてみても（ネメシスの要塞）,100-200+tanigon.mp3",
+            "09 - 月見草（無間の鐘 ～ Infinite Nightmare）,OdiakeS.mp3",
+            "01 - 青空の道標（風の循環 ～ Wind Tour）,craft sound studio.mp3",
+            "03 - トラヴェルマシン（東の国の眠らない夜）,白木滉平.mp3",
+            "04 - ひと駅歩こう（レトロスペクティブ京都）,F.mp3"
+        ]
+    },
+    "Vinyl-Relax-3": {
+        "name": "Touhou-Relax-Cafe-3",
+        "art": "relax-cover-3",
+        "vinyl_art": "relax-vinyl-3",
+        "vinyl_song_list": [
+            "(03) [zurotan] 紙ヒコーキ.mp3",
+            "(12) [CRAFT SOUND FACTORY] 心に火をつけて.mp3",
+            "(01) [100-200+tanigon] ドラマティック・レイン.mp3",
+            "(11) [SGY] 天河の舟.mp3",
+            "(02) [purikoko] 五年目の手紙.mp3",
+            "(10) [清水嶺] 歴史と季節の国.mp3",
+            "(05) [さば夫] 暗闇をけとばして.mp3",
+            "(06) [F] Jazz屋の娘.mp3",
+            "(14) [鳥居一平] きらいなはずだった冬に.mp3",
+            "(09) [浜田山ミュージックラボ] コノユビトマレ.mp3",
+            "(04) [白田将悟] 陽だまりの道.mp3",
+            "(13) [OdiakeS] いたずらな娘.mp3",
+            "(08) [白木滉平] 感傷紀行.mp3",
+            "(07) [備前] 星から落ちた迷い子.mp3"
+        ]
+    }
+}
